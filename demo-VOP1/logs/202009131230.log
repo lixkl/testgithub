@@ -1,0 +1,29 @@
+2020-09-13 12:30:19,344 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.Login.d?locale=zh_CN', 'username': '141163', 'passwd': '111111'}
+2020-09-13 12:30:21,833 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-13 12:30:24,654 - BrowserEngine - INFO - Open url: http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.Login.d?locale=zh_CN
+2020-09-13 12:30:24,882 - BrowserEngine - INFO - Maximize the current window.
+2020-09-13 12:30:24,884 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-13 12:30:24,885 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.Login.d?locale=zh_CN', 'username': '141163', 'passwd': '111111'}
+2020-09-13 12:30:24,921 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-13 12:30:25,015 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-13 12:30:25,050 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-13 12:30:25,132 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-13 12:30:25,167 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-13 12:30:27,855 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009131230.png and save to folder : /screenshots
+2020-09-13 12:30:27,855 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-13 12:30:27,893 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-13 12:30:27,982 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //label[contains(text(), "VOP系统")]/../label[1] 
+2020-09-13 12:30:30,111 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-13 12:30:31,487 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-13 12:30:34,562 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id="d_tabControlWorkarea"]/div[2]/div[1]/iframe 
+2020-09-13 12:30:34,587 - BasePage - INFO - switch to iframe <selenium.webdriver.remote.webelement.WebElement (session="ac3606c8f1930fa9e5eb49eef2940e2a", element="0.5735236401691606-4")>
+2020-09-13 12:30:36,663 - BasePage - INFO - Had find the element '  新增 ' successful by id via value: d_btnAddOrganize 
+2020-09-13 12:30:37,875 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOName 
+2020-09-13 12:30:38,058 - BasePage - INFO - Had type ' 自动测试添加Autotest ' in inputBox
+2020-09-13 12:30:38,059 - VOP_QXFP - INFO - 添加组织-自动测试添加Autotest
+2020-09-13 12:30:45,324 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"d__uid_239"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86)
+
+2020-09-13 12:30:45,649 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009131230.png and save to folder : /screenshots
+2020-09-13 12:30:52,659 - VOP_QXFP - INFO - 后置处理失败，删除失败

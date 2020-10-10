@@ -1,0 +1,38 @@
+2020-09-14 19:32:25,064 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-14 19:32:28,776 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-14 19:32:30,717 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-14 19:32:31,407 - BrowserEngine - INFO - Maximize the current window.
+2020-09-14 19:32:31,411 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-14 19:32:31,412 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-14 19:32:31,507 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-14 19:32:31,979 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-14 19:32:32,017 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-14 19:32:32,102 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-14 19:32:32,144 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-14 19:32:35,552 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009141932.png and save to folder : /screenshots
+2020-09-14 19:32:35,553 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-14 19:32:35,743 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-14 19:32:35,853 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //label[contains(text(), "VOP系统")]/../label[1] 
+2020-09-14 19:32:37,980 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-14 19:32:39,338 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-14 19:32:42,381 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id="d_tabControlWorkarea"]/div[2]/div[1]/iframe 
+2020-09-14 19:32:42,410 - BasePage - INFO - switch to iframe <selenium.webdriver.remote.webelement.WebElement (session="3fcea0f03509b3f72ea4dbcdacaa65c9", element="0.5961593543571313-6")>
+2020-09-14 19:32:44,459 - BasePage - INFO - Had find the element '  新增 ' successful by id via value: d_btnAddOrganize 
+2020-09-14 19:32:45,703 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOName 
+2020-09-14 19:32:45,921 - BasePage - INFO - Had type ' 自动测试添加Autotest ' in inputBox
+2020-09-14 19:32:45,922 - VOP_QXFP - INFO - 添加组织-自动测试添加Autotest
+2020-09-14 19:32:48,200 - BasePage - INFO - Had find the element '  ' successful by id via value: d__uid_239 
+2020-09-14 19:32:49,364 - BasePage - INFO - Had find the element ' 确定 ' successful by id via value: d__uid_238 
+2020-09-14 19:32:49,479 - VOP_QXFP - INFO - 填写开始时间为上一年
+2020-09-14 19:32:50,524 - BasePage - INFO - Had find the element '  确认 ' successful by id via value: d_btnSaveOrganize 
+2020-09-14 19:32:51,666 - VOP_QXFP - INFO - 已添加组织，截图并开始断言
+2020-09-14 19:32:54,003 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009141932.png and save to folder : /screenshots
+2020-09-14 19:32:55,059 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOrganize 
+2020-09-14 19:32:55,178 - BasePage - INFO - Had type ' 自动测试添加 ' in inputBox
+2020-09-14 19:32:56,312 - BasePage - INFO - Had find the element '  查询 ' successful by id via value: d_btnQuery 
+2020-09-14 19:32:56,440 - QXFP - INFO - 权限分配搜索关键字自动测试添加
+2020-09-14 19:32:57,460 - VOP_QXFP - INFO - 断言-通过搜索判断是否查询到已添加的组织，有则通过
+2020-09-14 19:32:57,488 - VOP_QXFP - INFO - 无法搜索到添加的组织，用例失败
+2020-09-14 19:32:57,795 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009141932.png and save to folder : /screenshots
+2020-09-14 19:33:00,958 - BasePage - INFO - Had find the element '  删除 ' successful by id via value: d_btnDelOrganize 
+2020-09-14 19:33:02,108 - VOP_QXFP - INFO - 后置处理已删除测试组织

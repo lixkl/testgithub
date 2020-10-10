@@ -1,0 +1,21 @@
+2020-09-11 13:14:20,368 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 13:14:25,804 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 13:14:27,467 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 13:14:27,768 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 13:14:27,798 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 13:14:27,799 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 13:14:28,242 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 13:14:28,430 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 13:14:28,488 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 13:14:28,649 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 13:14:28,762 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-11 13:14:32,897 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009111314.png and save to folder : /screenshots
+2020-09-11 13:14:32,897 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-11 13:14:32,940 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-11 13:14:33,091 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //label[contains(text(), "VOP系统")]/../label[1] 
+2020-09-11 13:14:35,473 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-11 13:14:36,999 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-11 13:14:46,095 - VOP_QXFP - INFO - 后置处理失败，删除失败
+2020-09-11 13:14:47,518 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 13:14:51,661 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 13:14:53,835 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d

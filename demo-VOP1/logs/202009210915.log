@@ -1,0 +1,27 @@
+2020-09-21 09:15:37,715 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-21 09:15:40,949 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-21 09:15:42,350 - BrowserEngine - INFO - Open url: http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-21 09:15:42,609 - BrowserEngine - INFO - Maximize the current window.
+2020-09-21 09:15:42,621 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-21 09:15:42,621 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-21 09:15:42,971 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-21 09:15:43,062 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-21 09:15:43,098 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-21 09:15:43,176 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-21 09:15:43,222 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-21 09:15:46,516 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009210915.png and save to folder : /screenshots
+2020-09-21 09:15:46,516 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-21 09:15:46,570 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@class="tab tab-closeable tab-selected"]/span[1]/span[3] 
+2020-09-21 09:15:46,686 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-21 09:15:46,794 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //label[contains(text(), "VOP系统")]/../label[1] 
+2020-09-21 09:15:48,959 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-21 09:15:50,437 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-21 09:15:53,472 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id="d_tabControlWorkarea"]/div[2]/div[1]/iframe 
+2020-09-21 09:15:53,499 - BasePage - INFO - switch to iframe <selenium.webdriver.remote.webelement.WebElement (session="b8ef55fb71b0e57298488cd3b4bf61a6", element="0.2942470255594287-6")>
+2020-09-21 09:15:55,594 - BasePage - INFO - Had find the element '  新增 ' successful by id via value: d_btnAddOrganize 
+2020-09-21 09:15:56,898 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOName 
+2020-09-21 09:15:57,599 - BasePage - INFO - Had type ' 自动测试添加Autotest ' in inputBox
+2020-09-21 09:15:57,599 - VOP_QXFP - INFO - 添加组织-自动测试添加Autotest
+2020-09-21 09:16:01,141 - VOP_QXFP - INFO - 填写开始时间为上一年
+2020-09-21 09:16:02,211 - BasePage - INFO - Had find the element '  确认 ' successful by id via value: d_btnSaveOrganize 
+2020-09-21 09:16:05,306 - VOP_QXFP - INFO - 后置处理失败，删除失败

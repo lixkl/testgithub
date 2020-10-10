@@ -1,0 +1,18 @@
+2020-09-13 12:27:40,819 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.Login.d?locale=zh_CN', 'username': '141163', 'passwd': '111111'}
+2020-09-13 12:27:43,643 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-13 12:27:45,754 - BrowserEngine - INFO - Open url: http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.Login.d?locale=zh_CN
+2020-09-13 12:27:46,000 - BrowserEngine - INFO - Maximize the current window.
+2020-09-13 12:27:46,001 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-13 12:27:46,002 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.Login.d?locale=zh_CN', 'username': '141163', 'passwd': '111111'}
+2020-09-13 12:27:46,036 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-13 12:27:46,143 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-13 12:27:46,177 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-13 12:27:46,253 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-13 12:27:46,287 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-13 12:27:49,253 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009131227.png and save to folder : /screenshots
+2020-09-13 12:27:49,254 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-13 12:27:49,288 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-13 12:27:49,368 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //label[contains(text(), "VOP系统")]/../label[1] 
+2020-09-13 12:27:51,514 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-13 12:27:52,901 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-13 12:28:08,075 - VOP_QXFP - INFO - 后置处理失败，删除失败

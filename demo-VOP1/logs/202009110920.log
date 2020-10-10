@@ -1,0 +1,34 @@
+2020-09-11 09:20:51,294 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 09:20:52,152 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 09:20:52,380 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 09:20:52,389 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 09:20:52,565 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 09:20:52,649 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 09:20:52,681 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 09:20:52,756 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 09:20:52,796 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-11 09:20:56,060 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-09-11 09:20:56,061 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-11 09:20:56,111 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-11 09:20:56,205 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id="d__uid_76"]/div/table/tbody/tr[6]/td/div/label[1] 
+2020-09-11 09:20:58,341 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-11 09:20:59,640 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-11 09:21:00,684 - BasePage - INFO - switch to iframe <selenium.webdriver.remote.webelement.WebElement (session="dd86ac31b9b8e00ff442ef97f59aba98", element="0.5152992898390829-4")>
+2020-09-11 09:21:00,727 - BasePage - INFO - Had find the element '  新增 ' successful by id via value: d_btnAddOrganize 
+2020-09-11 09:21:01,969 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOName 
+2020-09-11 09:21:02,142 - BasePage - INFO - Had type ' 自动测试添加Autotest ' in inputBox
+2020-09-11 09:21:02,142 - VOP_QXFP - INFO - 添加组织-自动测试添加Autotest
+2020-09-11 09:21:04,438 - BasePage - INFO - Had find the element '  ' successful by id via value: d__uid_239 
+2020-09-11 09:21:05,586 - BasePage - INFO - Had find the element ' 确定 ' successful by id via value: d__uid_238 
+2020-09-11 09:21:05,698 - VOP_QXFP - INFO - 填写开始时间为上一年
+2020-09-11 09:21:06,757 - BasePage - INFO - Had find the element '  确认 ' successful by id via value: d_btnSaveOrganize 
+2020-09-11 09:21:07,868 - VOP_QXFP - INFO - 已添加组织，截图并开始断言
+2020-09-11 09:21:10,198 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-09-11 09:21:11,271 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOrganize 
+2020-09-11 09:21:11,358 - BasePage - INFO - Had type ' 自动测试添加 ' in inputBox
+2020-09-11 09:21:12,407 - BasePage - INFO - Had find the element '  查询 ' successful by id via value: d_btnQuery 
+2020-09-11 09:21:12,508 - QXFP - INFO - 权限分配搜索关键字自动测试添加
+2020-09-11 09:21:13,560 - VOP_QXFP - INFO - 断言-通过搜索判断是否查询到已添加的组织，有则通过
+2020-09-11 09:21:13,592 - VOP_QXFP - INFO - 搜索到添加的组织，用例通过
+2020-09-11 09:21:16,806 - BasePage - INFO - Had find the element '  删除 ' successful by id via value: d_btnDelOrganize 
+2020-09-11 09:21:17,925 - VOP_QXFP - INFO - 后置处理已删除测试组织

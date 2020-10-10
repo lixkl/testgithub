@@ -1,0 +1,30 @@
+2020-09-11 14:00:01,115 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 14:00:04,564 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 14:00:05,545 - BrowserEngine - INFO - Open url: http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 14:00:05,835 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 14:00:05,840 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 14:00:05,841 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.10.117.2:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 14:00:06,085 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 14:00:06,212 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 14:00:06,250 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 14:00:06,349 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 14:00:06,395 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-11 14:00:17,047 - VOP_QXFP - INFO - 后置处理失败，删除失败
+2020-09-11 14:00:28,338 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 14:00:30,464 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 14:00:31,831 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 14:00:32,103 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 14:00:32,106 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 14:00:32,107 - BrowserEngine - INFO - {'browserType': 'Chrome', 'url': 'http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d', 'username': '141163', 'passwd': '111111'}
+2020-09-11 14:00:32,320 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 14:00:32,411 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 14:00:32,449 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 14:00:32,541 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 14:00:32,584 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-11 14:00:35,939 - BasePage - INFO - Had take screenshot D:\1-LIX\demo-VOP1\demo-VOP1/screenshots/202009111400.png and save to folder : /screenshots
+2020-09-11 14:00:35,939 - VOP_QXFP - INFO - 前置处理-登录
+2020-09-11 14:00:35,983 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-11 14:00:36,130 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //label[contains(text(), "VOP系统")]/../label[1] 
+2020-09-11 14:00:38,349 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-11 14:00:39,656 - VOP_QXFP - INFO - 切换到VOP权限分配页面
+2020-09-11 14:00:54,726 - VOP_QXFP - INFO - 后置处理失败，删除失败

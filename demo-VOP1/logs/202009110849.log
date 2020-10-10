@@ -1,0 +1,52 @@
+2020-09-11 08:49:52,566 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 08:49:53,471 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 08:49:53,653 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 08:49:53,657 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 08:49:54,018 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 08:49:54,135 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 08:49:54,174 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 08:49:54,247 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 08:49:54,291 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-11 08:49:54,636 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.9573270253843376-3")> ' was clicked.
+2020-09-11 08:49:57,055 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-09-11 08:49:57,056 - VOP_QXFP - INFO - 权限运行已截图
+2020-09-11 08:49:57,059 - VOP_QXFP - INFO - wait(5)
+2020-09-11 08:49:57,099 - BasePage - INFO - Had find the element ' VOP系统 ' successful by xpath via value: //label[contains(text(),'VOP')] 
+2020-09-11 08:49:57,161 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.6680732477656801-1")> ' was clicked.
+2020-09-11 08:49:57,217 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id="d__uid_76"]/div/table/tbody/tr[6]/td/div/label[1] 
+2020-09-11 08:49:57,400 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.6680732477656801-2")> ' was clicked.
+2020-09-11 08:49:59,440 - BasePage - INFO - Had find the element ' 权限分配 ' successful by xpath via value: //label[contains(text(), '权限分配')] 
+2020-09-11 08:49:59,777 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.6680732477656801-3")> ' was clicked.
+2020-09-11 08:50:01,843 - BasePage - INFO - switch to iframe <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.6680732477656801-4")>
+2020-09-11 08:50:01,881 - BasePage - INFO - Had find the element '  新增 ' successful by id via value: d_btnAddOrganize 
+2020-09-11 08:50:02,081 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-1")> ' was clicked.
+2020-09-11 08:50:03,120 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOName 
+2020-09-11 08:50:03,258 - BasePage - INFO - Had type ' 自动测试添加Autotest ' in inputBox
+2020-09-11 08:50:04,474 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-3")> ' was clicked.
+2020-09-11 08:50:05,536 - BasePage - INFO - Had find the element '  ' successful by id via value: d__uid_239 
+2020-09-11 08:50:05,646 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-4")> ' was clicked.
+2020-09-11 08:50:06,708 - BasePage - INFO - Had find the element ' 确定 ' successful by id via value: d__uid_238 
+2020-09-11 08:50:06,804 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-5")> ' was clicked.
+2020-09-11 08:50:07,875 - BasePage - INFO - Had find the element '  确认 ' successful by id via value: d_btnSaveOrganize 
+2020-09-11 08:50:07,979 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-6")> ' was clicked.
+2020-09-11 08:50:09,006 - VOP_QXFP - INFO - switch to page QXFP-权限分配
+2020-09-11 08:50:11,400 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-09-11 08:50:12,439 - BasePage - INFO - Had find the element '  ' successful by id via value: d_textOrganize 
+2020-09-11 08:50:12,524 - BasePage - INFO - Had type ' 自动测试添加 ' in inputBox
+2020-09-11 08:50:13,594 - BasePage - INFO - Had find the element '  查询 ' successful by id via value: d_btnQuery 
+2020-09-11 08:50:13,695 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-8")> ' was clicked.
+2020-09-11 08:50:16,915 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-10")> ' was clicked.
+2020-09-11 08:50:17,996 - BasePage - INFO - Had find the element '  删除 ' successful by id via value: d_btnDelOrganize 
+2020-09-11 08:50:18,092 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="cf441fcb0acb5499f0f09caf5a41b420", element="0.21334627956308827-11")> ' was clicked.
+2020-09-11 08:50:25,182 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 08:50:25,948 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 08:50:26,126 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 08:50:26,128 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 08:50:26,283 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 08:50:26,352 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 08:50:26,383 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 08:50:26,448 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 08:50:26,481 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: // button[contains(text(), '登')] 
+2020-09-11 08:50:26,790 - BasePage - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="77689f60a868636a7784b3cb95a26344", element="0.9965572951793349-3")> ' was clicked.
+2020-09-11 08:50:29,212 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-09-11 08:50:29,212 - VOP_DLYM - INFO - loginpage已截图

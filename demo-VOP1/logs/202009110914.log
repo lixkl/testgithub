@@ -1,0 +1,19 @@
+2020-09-11 09:14:46,778 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 09:14:48,739 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 09:14:50,535 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 09:14:50,539 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 09:14:50,862 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 09:14:50,977 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 09:14:51,034 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 09:14:51,170 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 09:14:51,228 - BasePage - INFO - Had find the element ' µÇÂ¼ ' successful by xpath via value: // button[contains(text(), 'µÇ')] 
+2020-09-11 09:14:56,122 - VOP_QXFP - INFO - ºóÖÃ´¦ÀíÊ§°Ü£¬É¾³ýÊ§°Ü
+2020-09-11 09:15:00,445 - BrowserEngine - INFO - Starting Chrome browser.
+2020-09-11 09:15:01,291 - BrowserEngine - INFO - Open url: http://10.100.248.27:8081/vinda_dis/com.rst.cloud.base.framework.view.MainFrame1.d
+2020-09-11 09:15:01,536 - BrowserEngine - INFO - Maximize the current window.
+2020-09-11 09:15:01,548 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2020-09-11 09:15:01,870 - BasePage - INFO - Had find the element '  ' successful by id via value: username_ 
+2020-09-11 09:15:01,991 - BasePage - INFO - Had type ' 141163 ' in inputBox
+2020-09-11 09:15:02,031 - BasePage - INFO - Had find the element '  ' successful by id via value: password_ 
+2020-09-11 09:15:02,139 - BasePage - INFO - Had type ' 111111 ' in inputBox
+2020-09-11 09:15:02,184 - BasePage - INFO - Had find the element ' µÇÂ¼ ' successful by xpath via value: // button[contains(text(), 'µÇ')] 
